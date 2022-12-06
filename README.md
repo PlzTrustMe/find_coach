@@ -22,3 +22,14 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# Проект "Find coach"
+```
+В данном проект постараюсь описывать каждое нововедение
+Используется:
+- Vue 3
+- Firebase (DB and Auth)
+- Pinia
+- Vue-Router
+```
